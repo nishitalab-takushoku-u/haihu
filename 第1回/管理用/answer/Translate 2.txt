@@ -1,0 +1,81 @@
+
+===== テスト1 =====
+[実行結果]
+% java Translate
+n = [INPUT]
+one
+ 
+[入力内容]
+1
+
+===== テスト2 =====
+[実行結果]
+% java Translate
+n = [INPUT]
+two
+ 
+[入力内容]
+2
+
+===== テスト3 =====
+[実行結果]
+% java Translate
+n = [INPUT]
+three
+ 
+[入力内容]
+3
+
+===== テスト4 =====
+[実行結果]
+% java Translate
+n = [INPUT]
+four
+ 
+[入力内容]
+4
+
+===== テスト5 =====
+[実行結果]
+% java Translate
+n = [INPUT]
+five
+ 
+[入力内容]
+5
+
+===== テスト6 =====
+[実行結果]
+% java Translate
+n = [INPUT]
+six
+ 
+[入力内容]
+6
+
+===== テスト7 =====
+[実行結果]
+% java Translate
+[INPUT]
+n = seven
+ 
+[入力内容]
+7
+
+===== テスト8 =====
+[実行結果]
+% java Translate
+n = [INPUT]
+eight
+ 
+[入力内容]
+8
+
+===== テスト9 =====
+[実行結果]
+% java Translate
+n = [INPUT]
+nine
+ 
+[入力内容]
+9
