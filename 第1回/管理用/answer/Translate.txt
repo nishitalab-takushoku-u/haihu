@@ -56,8 +56,8 @@ six
 ===== テスト7 =====
 [実行結果]
 % java Translate
-[INPUT]
-n = seven
+n = [INPUT]
+seven
  
 [入力内容]
 7
