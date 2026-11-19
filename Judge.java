@@ -263,7 +263,7 @@ public class Judge {
         for (String token : tokens) {
 
             // stdout の flush を待つ
-            Thread.sleep(50);
+            Thread.sleep(300);
 
             synchronized (OUTPUT_LOCK) {
 
